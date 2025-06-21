@@ -1,0 +1,10 @@
+{
+  "mt5": {
+    "login": 222567078,
+    "password": "Recklesssince@09",
+    "server": "Exness-MT5Real30"
+  },
+  "risk": {
+    "max_zar_loss": 10
+  }
+}
