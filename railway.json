@@ -12,7 +12,7 @@
           ]
         },
         "start": {
-          "cmd": "python3 bot.py"
+          "cmd": "python bot.py"
         }
       }
     }
